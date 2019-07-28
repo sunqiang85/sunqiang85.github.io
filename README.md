@@ -7,7 +7,7 @@
 > Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 
 I have made this into a Jekyll Theme. Checkout the live demo [here](https://webjeda.com/online-cv/).
-I have made it into a online-cv [here](https://sunqiang85.github.com)
+I have made it into a online-cv [here](https://sunqiang85.github.io)
 
 <table>
   <tr>
