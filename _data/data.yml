@@ -12,14 +12,14 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: biagio.brattoli@gmail.com
+    email: sunqiang85@gmail.com
     phone: 
-    website: bbrattoli.github.io/publications/ #do not add http://
-    linkedin: biagiobrattoli
-    github: bbrattoli
+    website: sunqiang85.github.io/publications/ #do not add http://
+    linkedin: 
+    github: sunqiang85
     gitlab:
     bitbucket:
-    twitter: '@BiagioBrattoli'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -28,20 +28,14 @@ sidebar:
       - idiom: English
         level: Fluent
 
-      - idiom: Italian
+      - idiom: Chinese
         level: Native
 
-      - idiom: German
-        level: Colloquial
-
     interests:
-      - item: Guitar
+      - item: Hiking
         link:
 
-      - item: Basketball
-        link:
-
-      - item: Biking
+      - item: Swimming
         link:
 
 career-profile:
