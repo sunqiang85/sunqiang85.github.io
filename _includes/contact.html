@@ -24,10 +24,16 @@
       <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">{{ sidebar.linkedin }}</a>
     </li>
     {% endif %}
-
+    
     {% if sidebar.github %}
     <li class="github"><i class="fab fa-github"></i>
       <a href="http://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.zhihu %}
+    <li class="website"><i class="fas fa-globe-americas"></i>
+      <a href="https://www.zhihu.com/people/{{ sidebar.zhihu }}" target="_blank">知乎</a>
     </li>
     {% endif %}
 
