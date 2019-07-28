@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Biagio Brattoli
+    name: Qiang Sun
     tagline: Computer Vision and Machine Learning researcher
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -99,49 +99,13 @@ educationcomplete:
         Bachelor degree in Software Engineering
 
 
-#experiences:
-    #- role: Lead Developer
-      #time: 2015 - Present
-      #company: Startup Hubs, San Francisco
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        #enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        #error sit voluptatem accusantium doloremque laudantium, totam rem
-        #aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        #architecto beatae vitae dicta sunt explicabo.
-
-          #- Bullet point
-          #- Bullet point
-
-    #- role: Senior Software Engineer
-      #time: 2014 - 2015
-      #company: Google, London
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem.
-
-          #- Bullet point
-          #- Bullet point
-
-    #- role: UI Developer
-      #time: 2012 - 2014
-      #company: Amazon, London
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem.
-
-          #- Bullet point
-          #- Bullet point
+experiences:
+    - role: Lead Developer
+      time: 2012 - 2018
+      company: KRCB, Kunshan
+      details: |
+          - Enterprsie Service Bus
+          - Data Governance
 
 #projects:
     #title: Projects
