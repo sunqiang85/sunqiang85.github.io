@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: sunqiang85@gmail.com
     phone: 
-    website: sunqiang85.github.io/publications/ #do not add http://
+    website: sunqiang85.github.io #do not add http://
     linkedin: 
     github: sunqiang85
     gitlab:
@@ -41,8 +41,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      After a double master degree at KTH (Stochkolm, Sweden) and Politecnico di Torino (Torino, Italy), 
-      I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image procession, one of the biggest research group in Germany in the field.
+      I am pursuing my PhD degree at Fudan University now. My research area is VQA (Visual Question Answering).
 
 news:
     title: News
@@ -50,98 +49,54 @@ news:
         
     
     posts:
-        - time: March 2019
-          title: Two papers submitted to ICCV19
+        - time: June 2019
+          title: Summary Project (RL in VQA)
         
-        - time: January 2019
-          title: Selected as reviewer for ICCV19
-        
-        - time: December 2018
-          title: Selected as reviewer for CVPR19
-        
-        - time: Sptember 2018
-          title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
-        
-        - time: July 2018
-          title: Attending the International Summer School for Computer Vision (ICVSS) in Sicily, Italy
-        
-        - time: 2018
-          title: Paper accepted as poster at ECCV18 in Munich, Germany
-        
-        - time: 2017
-          title: Attending the Workshop on Behavior Analysis (BAFA, Better Analysis Fewer Animals) in Utrecht, Netherlands
-        
-        - time: 2017
-          title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
+        - time: 2019
+          title: Paper accepted as poster at ICMR19 in Ottawa, Canada
 
 education:
     - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - current
-      details: |
-
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
-
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
+      university: Fudan University
+      time: 2018 - current
       details: |
     
     - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
+      university: Nanjing University
+      time: 2008 - 2011
       details: |
     
     - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
+      university: Nanjing University
+      time: 2004 - 2008
       details: |
 
 
 educationcomplete:
     - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - current
+      university: Fudan University
+      time: 2018 - current
       details: |
         Unsupervised deep learning for automatic behavior analysis
 
-          - Unsupervised learning
-          - Representaion learning
-          - Automatic Behavior Analysis
-
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
-        Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-          - Deep learning
-          - Hand Gesture
-
+          - Visual Question Answering
+          - Computer Vision
+    
     - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
+      university: Nanjing University
+      time: 2008 - 2011
       details: |
         Master degree in Computer Science and Artificial Intelligence
 
           - Artificial Intelligence
           - Machine Learning
-          - Computer Vision
-    
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
-        Master degree in Software Engineering
+          - Multi-Agent
     
     - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
+      university: Nanjing University
+      time: 2004 - 2008
       details: |
-        Master degree in Computer Engineering
+        Bachelor degree in Software Engineering
 
 
 #experiences:
@@ -222,51 +177,31 @@ publications:
       
 
     papers:
-      - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
-        authors: B. Brattoli*, U. Buechler*, B. Ommer
-        conference: ECCV, 2018
-
-      - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
-        authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
-        conference: CVPR, 2017
-
-      - title: "Cross and Learn: Cross-Modal Self-Supervision"
-        authors: N. Sayer, B. Brattoli, B. Ommer
-        conference: oral at GCPR, 2018
-
-      - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
-        authors: O. Blum, B. Brattoli, B. Ommer
-        conference: oral at GCPR, 2018
-
-      - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
-        authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
-        conference: "Nature Communications, 2017"
-        
-      - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
-        authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
-        conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
+      - title: "Stacked Self-Attention Networks for Visual Question Answering"
+        authors: Qiang Sun*, Yanwei Fu
+        conference: ICMR, 2019
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Python
-        level: 100%
-
-      - name: PyTorch
-        level: 90%
-
-      - name: Tensorflow
-        level: 60%
-
-      - name: Caffe
         level: 80%
 
+      - name: PyTorch
+        level: 60%
+
+      - name: Tensorflow
+        level: 30%
+
+      - name: Caffe
+        level: 30%
+
       - name: Matlab
-        level: 90%
+        level: 30%
 
       - name: C/C++
-        level: 75%
+        level: 30%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
