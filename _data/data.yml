@@ -79,9 +79,11 @@ educationcomplete:
       university: Fudan University
       time: 2018 - current
       details: |
-        Unsupervised deep learning for automatic behavior analysis
+        Vision and Language tasks in Robotics
 
           - Visual Question Answering
+          - Vision-and-Language Navigation
+          - Vision-and-Language Grasping
           - Computer Vision
     
     - degree: Master Degree
