@@ -43,7 +43,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am pursuing my PhD degree at Fudan University now. My research area is VQA (Visual Question Answering).
+      I am a college lecturer at Shanghai University of International Business and Economics now. My research area is vision and language tasks in robotics.
 
 news:
     title: News
@@ -60,7 +60,7 @@ news:
 education:
     - degree: PhD in Computer vision and Machine learning
       university: Fudan University
-      time: 2018 - current
+      time: 2018 - 2023
       details: |
     
     - degree: Master Degree
@@ -143,9 +143,26 @@ publications:
       
 
     papers:
+      - title: "GeoVLN: LearningGeometry-Enhanced Visual Representation with Slot Attention for Vision-and-LanguageNavigation"
+        authors: JingyangHuo, Qiang Sun, Boyan Jiang, Haitao Lin, Yanwei Fu
+        conference: CVPR, 2023
+      - title: "Local Slot Attention for Vision andLanguage Navigation. International Conference on Multimedia Retrieval"
+        authors: Zhuang Yifeng, Qiang Sun*, Yanwei Fu, Lifeng Chen, Xiangyang Xue
+        conference: ICMR, 2022
+      - title: "Depth-guided adain and shift attention network for vision-and-language navigation"
+        authors: Qiang Sun*, YifengZhuang, Zhengqing Chen, Yanwei Fu, Xiangyang Xue
+        conference: ICME, 2021
+      - title: "Second order enhanced multi-glimpse attention in visual question answering"
+        authors: Qiang Sun*, BinghuiXie, Yanwei Fu
+        conference: ACCV, 2020
       - title: "Stacked Self-Attention Networks for Visual Question Answering"
         authors: Qiang Sun*, Yanwei Fu
         conference: ICMR, 2019
+      - title: "Comp-GAN: Compositional generative adversarial network in synthesizing and recognizing facial expression"
+        authors: Wenxuan Wang, QiangSun*, Yanwei Fu, Tao Chen, Chenjie Cao, Ziqi Zheng, Guoqiang Xu, Han Qiu, Yu-GangJiang, and Xiangyang Xue
+        conference: ICMR, 2019
+
+        
 
 skills:
     title: Skills &amp; Proficiency
