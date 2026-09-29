@@ -145,24 +145,51 @@ publications:
       
 
     papers:
-      - title: "GeoVLN: LearningGeometry-Enhanced Visual Representation with Slot Attention for Vision-and-LanguageNavigation"
-        authors: JingyangHuo, Qiang Sun, Boyan Jiang, Haitao Lin, Yanwei Fu
+      - title: "Learning a Mixture of Conditional Gating Blocks for Visual Question Answering"
+        authors: Qiang Sun, Yan-Wei Fu, Xiang-Yang Xue
+        conference: Journal of Computer Science and Technology, 39(4), 2024
+        link: "https://jcst.ict.ac.cn/fileup/1000-9000/PDF/JCST-2024-4-11-2113-912.pdf"
+        link_label: Open PDF
+      - title: "LAC-Net: Linear-Fusion Attention-Guided Convolutional Network for Accurate Robotic Grasping Under the Occlusion"
+        authors: Jinyu Zhang, Yongchong Gu, Jianxiong Gao, Haitao Lin, Qiang Sun, Xinwei Sun, Xiangyang Xue, Yanwei Fu
+        conference: IROS, 2024
+        link: "https://arxiv.org/pdf/2408.03238"
+        link_label: Open PDF
+      - title: "Language Guided Robotic Grasping with Fine-Grained Instructions"
+        authors: Qiang Sun, Haitao Lin, Ying Fu, Yanwei Fu, Xiangyang Xue
+        conference: IROS, 2023
+        link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10342331"
+        link_label: Publisher PDF
+      - title: "GeoVLN: Learning Geometry-Enhanced Visual Representation with Slot Attention for Vision-and-Language Navigation"
+        authors: Jingyang Huo, Qiang Sun, Boyan Jiang, Haitao Lin, Yanwei Fu
         conference: CVPR, 2023
-      - title: "Local Slot Attention for Vision andLanguage Navigation. International Conference on Multimedia Retrieval"
-        authors: Zhuang Yifeng, Qiang Sun*, Yanwei Fu, Lifeng Chen, Xiangyang Xue
+        link: "https://openaccess.thecvf.com/content/CVPR2023/papers/Huo_GeoVLN_Learning_Geometry-Enhanced_Visual_Representation_With_Slot_Attention_for_Vision-and-Language_CVPR_2023_paper.pdf"
+        link_label: Open PDF
+      - title: "Local Slot Attention for Vision-and-Language Navigation"
+        authors: Yifeng Zhuang, Qiang Sun, Yanwei Fu, Lifeng Chen, Xiangyang Xue
         conference: ICMR, 2022
-      - title: "Depth-guided adain and shift attention network for vision-and-language navigation"
-        authors: Qiang Sun*, YifengZhuang, Zhengqing Chen, Yanwei Fu, Xiangyang Xue
+        link: "https://dl.acm.org/doi/pdf/10.1145/3512527.3531366"
+        link_label: Open PDF
+      - title: "Depth-Guided AdaIN and Shift Attention Network for Vision-and-Language Navigation"
+        authors: Qiang Sun, Yifeng Zhuang, Zhengqing Chen, Yanwei Fu, Xiangyang Xue
         conference: ICME, 2021
-      - title: "Second order enhanced multi-glimpse attention in visual question answering"
-        authors: Qiang Sun*, BinghuiXie, Yanwei Fu
+        link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9428422"
+        link_label: Publisher PDF
+      - title: "Second Order Enhanced Multi-glimpse Attention in Visual Question Answering"
+        authors: Qiang Sun, Binghui Xie, Yanwei Fu
         conference: ACCV, 2020
+        link: "https://openaccess.thecvf.com/content/ACCV2020/papers/Sun_Second_Order_enhanced_Multi-glimpse_Attention_in_Visual_Question_Answering_ACCV_2020_paper.pdf"
+        link_label: Open PDF
+      - title: "Comp-GAN: Compositional Generative Adversarial Network in Synthesizing and Recognizing Facial Expression"
+        authors: Wenxuan Wang, Qiang Sun, Yanwei Fu, Tao Chen, Chenjie Cao, Ziqi Zheng, Guoqiang Xu, Han Qiu, Yu-Gang Jiang, Xiangyang Xue
+        conference: ACM Multimedia (MM), 2019
+        link: "https://dl.acm.org/doi/pdf/10.1145/3343031.3351032"
+        link_label: Publisher PDF
       - title: "Stacked Self-Attention Networks for Visual Question Answering"
-        authors: Qiang Sun*, Yanwei Fu
+        authors: Qiang Sun, Yanwei Fu
         conference: ICMR, 2019
-      - title: "Comp-GAN: Compositional generative adversarial network in synthesizing and recognizing facial expression"
-        authors: Wenxuan Wang, QiangSun*, Yanwei Fu, Tao Chen, Chenjie Cao, Ziqi Zheng, Guoqiang Xu, Han Qiu, Yu-GangJiang, and Xiangyang Xue
-        conference: ICMR, 2019
+        link: "https://dl.acm.org/doi/pdf/10.1145/3323873.3325044"
+        link_label: Publisher PDF
 
         
 

@@ -224,6 +224,11 @@ p {
         color: $text-grey;
         margin-bottom: 1px;
     }
+    .publication-link {
+        display: inline-block;
+        margin-left: 8px;
+        white-space: nowrap;
+    }
     .publications-section {
         .intro {
             margin-bottom: 30px;
